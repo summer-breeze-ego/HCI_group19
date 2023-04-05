@@ -1,1 +1,1 @@
-# HCI_group19
+# Human-Computer Interaction Project
